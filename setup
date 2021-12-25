@@ -3,14 +3,14 @@
 banner() {
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[92m  _   _            \e[0m\e[93m                         \e[0m\n"
-printf "\e[0m\e[92m | \ | |           \e[0m\e[93m|                   \e[0m\n"
-printf "\e[0m\e[92m |  \| |  \e[0m\e[93m|   𝙨𝙩𝙖𝙗𝙡𝙚-𝙝𝙖𝙘𝙠𝙚𝙧      \e[0m\n"
-printf "\e[0m\e[92m | .   |/        \e[0m\e[93m|    jimi---------    \e[0m\n"
-printf "\e[0m\e[92m | |\  |  _            _/>  <  \e[0m\e[93m|        tool created by JAMSHED RAJPUTT      \e[0m\n"
-printf "\e[0m\e[92m |_| \_|\\e[0m\e[93m|_      contect instagram jamshed_rajputt                \e[0m\e[1;44m[V 1.0]\e[0m\n"
+printf "\e[0m\e[92m  _               \e[0m\e[93m                         \e[0m\n"
+printf "\e[0m\e[92m | \             \e[0m\e[93m|                   \e[0m\n"
+printf "\e[0m\e[92m |    e[0m\e[93m|   𝙨𝙩𝙖𝙗𝙡𝙚-𝙝𝙖𝙘𝙠𝙚𝙧      \e[0m\n"
+printf "\e[0m\e[92m |            \e[0m\e[93m|    jimi---------    \e[0m\n"
+printf "\e[0m\e[92m | |                \e[0m\e[93m|        tool created by JAMSHED RAJPUTT      \e[0m\n"
+printf "\e[0m\e[92m |_|  e[0m\e[93m|_      contect instagram [jamshed_rajputt]                \e[0m\e[1;44m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
-printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : HTR-TECH ]\e[0m\n"
+printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY :STABLE-HACKER]\e[0m\n"
 printf "\e[0m\n"
 }
 banner
@@ -107,6 +107,6 @@ printf "\e[0m\n"
 printf "\e[0m\e[1;91m [\e[1;97m~\e[1;91m]\e[1;93m Installation Completed !! \e[0m\n"
 printf "\e[0m\n"
 sleep 2
-printf "\e[0m\e[1;91m [\e[1;97m~\e[1;91m]\e[1;93m Type \e[1;96mbash nexphisher \e[1;93mto run NEXPHISHER !! \e[0m\n"
+printf "\e[0m\e[1;91m [\e[1;97m~\e[1;91m]\e[1;93m Type \e[1;96mbash stable-hacker \e[1;93mto run STABLE-HACKER !! \e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\n"
